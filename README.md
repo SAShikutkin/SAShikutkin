@@ -28,12 +28,12 @@
 
 ## Интересы
 
-- Вне работы увлекаюсь шахматами. Мой аккаунт на Личесс: [SAS_programmer](https://lichess.org/@/SAS_programmer)
+- Вне работы увлекаюсь шахматами. Мой аккаунт на Lichess: [SAS_programmer](https://lichess.org/@/SAS_programmer)
 
 ## Контакты
 
 - **Email:** [SAShikutkin@gmail.com](mailto:SAShikutkin@gmail.com)
-- **Телеграм:** [https://t.me/SAShikutkin](https://t.me/SAShikutkin)
+- **Телеграм:** [t.me/SAShikutkin](https://t.me/SAShikutkin)
 
 ## Проекты
 
